@@ -1,0 +1,24 @@
+[
+    {
+        "role": "Software/AI Intern",
+        "organization": "Saber Tech Inc",
+        "sd": "01/01/2025",
+        "ed": "Current",
+        "responsibility": ["Gained practical work experience in AI and Development", "Developed AI Email Triage system to reduce busy work and increase productivity"]
+    },
+    {
+        "role": "Extern",
+        "organization": "Cognizant",
+        "sd": "06/20/2024",
+        "ed": "08/10/2024",
+        "responsibility": ["Acquired skills and gained experience in the field of Gen AI; programmed classifiers, sentiment analysis tools, etc. from scratch using PyTorch, Hugging Face, BERT, etc."]
+    },
+    {
+        "role": "Freelance Software Engineer",
+        "organization": "Mintways Technology",
+        "sd": "10/01/2024",
+        "ed": "12/12/2024",
+        "responsibility": ["Created scheduling algorithms for teachers"]
+    }
+    
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "title": "java",
+        "imageSrc": "experience/java.svg"
+    },
+    {
+        "title": "python",
+        "imageSrc": "experience/python.svg"
+    },
+    {
+        "title": "C",
+        "imageSrc": "experience/c.svg"
+    },
+    {
+        "title": "javascript",
+        "imageSrc": "experience/javascript.svg"
+    },
+    {
+        "title": "mysql",
+        "imageSrc": "experience/mysql.svg"
+    },
+    {
+        "title": "postgresql",
+        "imageSrc": "experience/postgresql.svg"
+    },
+    {
+        "title": "mongodb",
+        "imageSrc": "experience/mongodb.svg"
+    },
+    {
+        "title": "react",
+        "imageSrc": "experience/react.svg"
+    },
+    {
+        "title": "spring",
+        "imageSrc": "experience/spring.svg"
+    },
+    {
+        "title": "amazon",
+        "imageSrc": "experience/amazon.svg"
+    }
+]

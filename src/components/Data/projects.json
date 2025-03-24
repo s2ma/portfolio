@@ -1,0 +1,10 @@
+[
+    {
+        "title": "WebTurtle",
+        "imageSrc": "/assets/Projects/webTurtle.png",
+        "description": "Developed an AI powered extension that acts as a web toolbox, allowing for parsing and detection of malicious links/emails and helps protect users from phishing attacks.",
+        "skills": ["React", "AI", "Javascript", "AWS EC2"],
+        "demo": "https://chromewebstore.google.com/detail/webturtle/dnccehgmfddepoddigbbnjcjjddkieik?hl=en",
+        "source": "https://github.com/EricZoop/webturtle/tree/main"
+    }
+]
